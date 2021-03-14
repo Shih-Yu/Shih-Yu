@@ -18,12 +18,19 @@
 
 ![](https://img.shields.io/badge/Heroku-informational?style=for-the-badge&logo=Heroku&logoColor=white&color=430098)
 ![](https://img.shields.io/badge/Git-informational?style=for-the-badge&logo=Git&logoColor=white&color=F05032)
+![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=NPM&logoColor=white&color=CB3837)
 
 ## Interests
 
 ![](https://img.shields.io/badge/Coffee-informational?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=white&color=FFDD00)
+![](https://img.shields.io/badge/Playstation-informational?style=for-the-badge&logo=Playstation&logoColor=white&color=003791)
+![](https://img.shields.io/badge/Cookies-informational?style=for-the-badge&logo=Cookiecutter&logoColor=white&color=D4AA00)
 ![](https://img.shields.io/badge/Bitcoin-informational?style=for-the-badge&logo=Bitcoin&logoColor=white&color=F7931A)
 ![](https://img.shields.io/badge/Ethereum-informational?style=for-the-badge&logo=Ethereum&logoColor=white&color=3C3C3D)
 ![](https://img.shields.io/badge/Ripple-informational?style=for-the-badge&logo=Ripple&logoColor=white&color=0085C0)
 ![](https://img.shields.io/badge/Solidity-informational?style=for-the-badge&logo=Solidity&logoColor=white&color=363636)
 ![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=181717)
+![](https://img.shields.io/badge/Spotify-informational?style=for-the-badge&logo=Spotify&logoColor=white&color=1ED760)
+![](https://img.shields.io/badge/Udemy-informational?style=for-the-badge&logo=Udemy&logoColor=white&color=EC5252)
+![](https://img.shields.io/badge/TED-informational?style=for-the-badge&logo=TED&logoColor=white&color=E62B1E)
+![](https://img.shields.io/badge/DuckDuckGo-informational?style=for-the-badge&logo=DuckDuckGo&logoColor=white&color=DE5833)
