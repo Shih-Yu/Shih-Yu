@@ -5,6 +5,15 @@
 
 ## Repos 🗂
 
+<a href="https://github.com/Shih-Yu/greeter">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=greeter&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+<a href="https://github.com/Shih-Yu/Bitcoin-Watcher">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=bitcoin-watcher&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
+
 ## Skills Learning 🧠
 
 ![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
@@ -34,3 +43,8 @@
 ![](https://img.shields.io/badge/Udemy-informational?style=for-the-badge&logo=Udemy&logoColor=white&color=EC5252)
 ![](https://img.shields.io/badge/TED-informational?style=for-the-badge&logo=TED&logoColor=white&color=E62B1E)
 ![](https://img.shields.io/badge/DuckDuckGo-informational?style=for-the-badge&logo=DuckDuckGo&logoColor=white&color=DE5833)
+
+<!-- ## More 
+<a href="https://github.com/shih-yu">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shih-yu&&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a> -->
