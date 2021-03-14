@@ -1,2 +1,2 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/shih-yu-hwang/)
-[![Buy Me A Coffee](https://img.shields.io/badge/Coffee?style=for-the-badge&logo=buymeacoffee&logoColor=white&color=0D76A8)]
+[![Coffee](https://img.shields.io/badge/?style=for-the-badge&logo=buymeacoffee&logoColor=white&color=0D76A8)]
