@@ -2,7 +2,7 @@
 
 ## About
 
-Highly motivated and enthusiastic junior developer who is currently finishing the Full-Stack developer bootcamp at Austin CEommunity college. Excited in learning and utilizing in web technologies and applying it to projects and the real world.
+Highly motivated and enthusiastic junior developer who is currently finishing the Full-Stack developer bootcamp at Austin Community college. Excited in learning and utilizing in web technologies and applying it to projects and the real world.
 
 ## Repos 🗂
 
