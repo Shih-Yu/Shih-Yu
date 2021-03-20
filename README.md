@@ -2,7 +2,7 @@
 
 ## About
 
-Highly motivated and enthusiastic junior developer who is currently finishing the Full-Stack developer bootcamp at Austin CEommunity college. Excited in learning and utilizing in web technologies and applying it to projects and the real world.
+Motivated and enthusiastic individual who is currently finishing the Full-Stack developer bootcamp at Austin Community college learning and utilizing different web technologies. Currently an intern for OAG in the Human Trafficking and Transnational Organized Crime Section assisting with a web app development project.
 
 ## Repos 🗂
 
