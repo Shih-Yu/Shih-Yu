@@ -2,9 +2,13 @@
 
 ## About
 
-Highly motivated and enthusiastic junior developer who is currently finishing the Full-Stack developer bootcamp at Austin Community college. Excited in learning and utilizing in web technologies and applying it to projects and the real world.
+Highly motivated and enthusiastic junior developer who is currently finishing the Full-Stack developer bootcamp at Austin CEommunity college. Excited in learning and utilizing in web technologies and applying it to projects and the real world.
 
 ## Repos 🗂
+
+<a href="https://github.com/Shih-Yu/Movie-Project">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Movie-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 <a href="https://github.com/Shih-Yu/DogSalonDemoSite">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=DogSalonDemoSite&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
