@@ -6,6 +6,10 @@ Highly motivated and enthusiastic junior developer who is currently finishing th
 
 ## Repos 🗂
 
+<a href="https://github.com/Shih-Yu/Studio-Ghibli">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Studio-Ghibli&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <a href="https://github.com/Shih-Yu/Movie-Project">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Movie-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -17,7 +21,6 @@ Highly motivated and enthusiastic junior developer who is currently finishing th
 <a href="https://github.com/Shih-Yu/Bitcoin-Watcher">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=bitcoin-watcher&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
-
 
 ## Skills Learning 🧠
 
@@ -49,7 +52,7 @@ Highly motivated and enthusiastic junior developer who is currently finishing th
 ![](https://img.shields.io/badge/TED-informational?style=for-the-badge&logo=TED&logoColor=white&color=E62B1E)
 ![](https://img.shields.io/badge/DuckDuckGo-informational?style=for-the-badge&logo=DuckDuckGo&logoColor=white&color=DE5833)
 
-<!-- ## More 
+<!-- ## More
 <a href="https://github.com/shih-yu">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shih-yu&&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a> -->
