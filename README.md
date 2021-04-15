@@ -2,7 +2,7 @@
 
 ## About
 
-Motivated and enthusiastic individual who is currently finishing the Full-Stack developer bootcamp at Austin Community college learning and utilizing different web technologies. Currently an intern for OAG in the Human Trafficking and Transnational Organized Crime Section assisting with a web app development project.
+Motivated and enthusiastic individual who is currently finishing the Full-Stack developer bootcamp at Austin Community college learning and utilizing different web technologies. Recently completed an internship for OAG in the Human Trafficking and Transnational Organized Crime Section assisting with a web app development project.
 
 ## Repos 🗂
 
