@@ -2,7 +2,7 @@
 
 ## About
 
-Motivated and enthusiastic individual who is currently finishing the Full-Stack developer bootcamp at Austin Community college learning and utilizing different web technologies. Recently completed an internship for OAG in the Human Trafficking and Transnational Organized Crime Section assisting with a web app development project.
+Motivated and enthusiastic individual thatgraduated from Full-Stack developer bootcamp at Austin Community college learning and utilizing different web technologies. Recently completed an internship for OAG in the Human Trafficking and Transnational Organized Crime Section assisting with a web app development project.
 
 ## Repos 🗂
 <a href="https://github.com/Shih-Yu/Studio-Ghibli">
@@ -21,6 +21,9 @@ Motivated and enthusiastic individual who is currently finishing the Full-Stack 
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=bitcoin-watcher&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
 
+<a href="https://github.com/Shih-Yu/CoinChaser">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=CoinChaser&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
 
 ## Skills Learning 🧠
 
