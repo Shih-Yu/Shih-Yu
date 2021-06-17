@@ -5,6 +5,10 @@
 Motivated and enthusiastic individual thatgraduated from Full-Stack developer bootcamp at Austin Community college learning and utilizing different web technologies. Recently completed an internship for OAG in the Human Trafficking and Transnational Organized Crime Section assisting with a web app development project.
 
 ## Repos 🗂
+<a href="https://github.com/Shih-Yu/Greetings-Dapp">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Greetings-Dapp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+</a>
+
 <a href="https://github.com/Shih-Yu/Studio-Ghibli">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Studio-Ghibli&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
