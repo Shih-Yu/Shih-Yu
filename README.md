@@ -4,7 +4,7 @@
 
 Motivated and enthusiastic Full-Stack developer. Recently completed an internship for OAG in the Human Trafficking and Transnational Organized Crime Section assisting with a web app development project. Looking to learn more technologies especially in the blockchain space.
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shih-yu&show_icons=true&theme=gruvbox)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shih-yu&show_icons=true&theme=gruvbox&count_private=true)
 
 ## Repos 🗂
 
@@ -13,7 +13,7 @@ Motivated and enthusiastic Full-Stack developer. Recently completed an internshi
 </a>
 
 <a href="https://github.com/Shih-Yu/Studio-Ghibli">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Studio-Ghibli&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Studio-Ghibli&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/Shih-Yu/Movie-Project">
