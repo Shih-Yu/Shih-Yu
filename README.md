@@ -4,6 +4,8 @@
 
 Motivated and enthusiastic Full-Stack developer. Recently completed an internship for OAG in the Human Trafficking and Transnational Organized Crime Section assisting with a web app development project. Looking to learn more technologies especially in the blockchain space.
 
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shih-yu&show_icons=true&theme=gruvbox)
+
 ## Repos 🗂
 
 <a href="https://github.com/Shih-Yu/Greetings-Dapp">
