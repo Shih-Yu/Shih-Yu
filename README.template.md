@@ -2,31 +2,34 @@
 
 ## About
 
-Motivated and enthusiastic individual thatgraduated from Full-Stack developer bootcamp at Austin Community college learning and utilizing different web technologies. Recently completed an internship for OAG in the Human Trafficking and Transnational Organized Crime Section assisting with a web app development project.
+Motivated and enthusiastic Full-Stack developer. Recently completed an internship for OAG in the Human Trafficking and Transnational Organized Crime Section assisting with a web app development project. Looking to learn more technologies especially in the blockchain space.
+
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shih-yu&show_icons=true&theme=gruvbox&count_private=true)
 
 ## Repos 🗂
+
 <a href="https://github.com/Shih-Yu/Greetings-Dapp">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Greetings-Dapp&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Greetings-Dapp&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/Shih-Yu/Studio-Ghibli">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Studio-Ghibli&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Studio-Ghibli&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/Shih-Yu/Movie-Project">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Movie-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Movie-Project&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/Shih-Yu/DogSalonDemoSite">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=DogSalonDemoSite&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=DogSalonDemoSite&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/Shih-Yu/Bitcoin-Watcher">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=bitcoin-watcher&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=bitcoin-watcher&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/Shih-Yu/CoinChaser">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=CoinChaser&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=CoinChaser&theme=gruvbox" />
 </a>
 
 ## Skills Learning 🧠
@@ -59,7 +62,7 @@ Motivated and enthusiastic individual thatgraduated from Full-Stack developer bo
 ![](https://img.shields.io/badge/TED-informational?style=for-the-badge&logo=TED&logoColor=white&color=E62B1E)
 ![](https://img.shields.io/badge/DuckDuckGo-informational?style=for-the-badge&logo=DuckDuckGo&logoColor=white&color=DE5833)
 
-<!-- ## More 
+<!-- ## More
 <a href="https://github.com/shih-yu">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shih-yu&&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a> -->
