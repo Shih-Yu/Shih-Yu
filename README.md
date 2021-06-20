@@ -17,19 +17,19 @@ Motivated and enthusiastic Full-Stack developer. Recently completed an internshi
 </a>
 
 <a href="https://github.com/Shih-Yu/Movie-Project">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Movie-Project&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Movie-Project&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/Shih-Yu/DogSalonDemoSite">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=DogSalonDemoSite&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=DogSalonDemoSite&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/Shih-Yu/Bitcoin-Watcher">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=bitcoin-watcher&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=bitcoin-watcher&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/Shih-Yu/CoinChaser">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=CoinChaser&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=CoinChaser&theme=gruvbox" />
 </a>
 
 ## Skills Learning 🧠
