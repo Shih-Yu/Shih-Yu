@@ -2,11 +2,15 @@
 
 ## About
 
-Motivated and enthusiastic Full-Stack developer. Recently completed an internship for OAG in the Human Trafficking and Transnational Organized Crime Section assisting with a web app development project. Looking to learn more technologies especially in the blockchain space.
+Motivated and enthusiastic Full-Stack developer. Currently learning more in the blockchain space in smart contract development in Solidity, Truffle/Hardhat, Web3/Ethers and more.
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shih-yu&show_icons=true&theme=gruvbox&count_private=true)
 
 ## Repos 🗂
+
+<a href="https://github.com/cryptomonkey2020/Hackmoney2021">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cryptomonkey2020&repo=Hackmoney2021&theme=gruvbox" />
+</a>
 
 <a href="https://github.com/Shih-Yu/Greetings-Dapp">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Greetings-Dapp&theme=gruvbox" />
@@ -14,10 +18,6 @@ Motivated and enthusiastic Full-Stack developer. Recently completed an internshi
 
 <a href="https://github.com/Shih-Yu/Studio-Ghibli">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Studio-Ghibli&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/Shih-Yu/Movie-Project">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Movie-Project&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/Shih-Yu/DogSalonDemoSite">
@@ -37,6 +37,7 @@ Motivated and enthusiastic Full-Stack developer. Recently completed an internshi
 ![](https://img.shields.io/badge/HTML-informational?style=for-the-badge&logo=html5&logoColor=white&color=E34F26)
 ![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=CSS3&logoColor=white&color=1572B6)
 ![](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Solidity-informational?style=for-the-badge&logo=Solidity&logoColor=white&color=363636)
 ![](https://img.shields.io/badge/Bootstrap-informational?style=for-the-badge&logo=Bootstrap&logoColor=white&color=7952B3)
 ![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=Express&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/PostgreSql-informational?style=for-the-badge&logo=PostGreSql&logoColor=white&color=336791)
@@ -56,7 +57,6 @@ Motivated and enthusiastic Full-Stack developer. Recently completed an internshi
 ![](https://img.shields.io/badge/Bitcoin-informational?style=for-the-badge&logo=Bitcoin&logoColor=white&color=F7931A)
 ![](https://img.shields.io/badge/Ethereum-informational?style=for-the-badge&logo=Ethereum&logoColor=white&color=3C3C3D)
 ![](https://img.shields.io/badge/Ripple-informational?style=for-the-badge&logo=Ripple&logoColor=white&color=0085C0)
-![](https://img.shields.io/badge/Solidity-informational?style=for-the-badge&logo=Solidity&logoColor=white&color=363636)
 ![](https://img.shields.io/badge/Spotify-informational?style=for-the-badge&logo=Spotify&logoColor=white&color=1ED760)
 ![](https://img.shields.io/badge/Udemy-informational?style=for-the-badge&logo=Udemy&logoColor=white&color=EC5252)
 ![](https://img.shields.io/badge/TED-informational?style=for-the-badge&logo=TED&logoColor=white&color=E62B1E)
