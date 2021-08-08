@@ -8,6 +8,10 @@ Motivated and enthusiastic Full-Stack developer. Currently learning more in the 
 
 ## Repos 🗂
 
+<a href="https://github.com/Shih-Yu/Crimson-Affe">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Crimson-Affe&theme=gruvbox" />
+</a>
+
 <a href="https://github.com/cryptomonkey2020/Hackmoney2021">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cryptomonkey2020&repo=Hackmoney2021&theme=gruvbox" />
 </a>
