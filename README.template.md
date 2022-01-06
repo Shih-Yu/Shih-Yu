@@ -8,6 +8,10 @@ Motivated and enthusiastic Full-Stack developer. Currently learning more in the 
 
 ## Repos 🗂
 
+<a href="https://github.com/Shih-Yu/EthStreamShop">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=EthStreamShop&theme=gruvbox" />
+</a>
+
 <a href="https://github.com/IrisNathan/EthrtainmentLive">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=IrisNathan&repo=EthrtainmentLive&theme=gruvbox" />
 </a>
