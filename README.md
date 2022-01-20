@@ -8,8 +8,8 @@ Motivated and enthusiastic Full-Stack developer. Currently learning more in the 
 
 ## Repos 🗂
 
-<a href="https://github.com/Shih-Yu/EthStreamShop">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=EthStreamShop&theme=gruvbox" />
+<a href="https://github.com/Shih-Yu/Broadcaster">
+  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Broadcaster&theme=gruvbox" />
 </a>
 
 <a href="https://github.com/IrisNathan/EthrtainmentLive">
@@ -34,10 +34,6 @@ Motivated and enthusiastic Full-Stack developer. Currently learning more in the 
 
 <a href="https://github.com/Shih-Yu/DogSalonDemoSite">
   <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=DogSalonDemoSite&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/Shih-Yu/Bitcoin-Watcher">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=bitcoin-watcher&theme=gruvbox" />
 </a>
 
 ## Skills Learning 🧠
