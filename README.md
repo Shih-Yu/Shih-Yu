@@ -2,39 +2,13 @@
 
 ## About
 
-Motivated and enthusiastic Full-Stack developer. Currently learning more in the blockchain space in smart contract development in Solidity, Truffle/Hardhat, Web3/Ethers and more.
+I work at the intersection of production support and AI-driven operations. I manage incident response, on-call workflows, and troubleshooting using Grafana, Loki, Metabase, and PagerDuty while building AI-powered tools with GPT, Claude, and Cursor that streamline support processes and reduce manual work. I'm looking for roles that combine technical support engineering with AI operations and internal tool development.
 
+
+Developer or Platform Support
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=shih-yu&show_icons=true&theme=gruvbox&count_private=true)
 
-## Repos 🗂
 
-<a href="https://github.com/Shih-Yu/Broadcaster">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Broadcaster&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/IrisNathan/EthrtainmentLive">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=IrisNathan&repo=EthrtainmentLive&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/Shih-Yu/Crimson-Affe">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Crimson-Affe&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/cryptomonkey2020/Hackmoney2021">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=cryptomonkey2020&repo=Hackmoney2021&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/Shih-Yu/Greetings-Dapp">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Greetings-Dapp&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/Shih-Yu/Studio-Ghibli">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=Studio-Ghibli&theme=gruvbox" />
-</a>
-
-<a href="https://github.com/Shih-Yu/DogSalonDemoSite">
-  <img align="center" style="margin:1rem 0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=shih-yu&repo=DogSalonDemoSite&theme=gruvbox" />
-</a>
 
 ## Skills Learning 🧠
 
@@ -58,9 +32,6 @@ Motivated and enthusiastic Full-Stack developer. Currently learning more in the 
 ![](https://img.shields.io/badge/Coffee-informational?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=white&color=FFDD00)
 ![](https://img.shields.io/badge/Playstation-informational?style=for-the-badge&logo=Playstation&logoColor=white&color=003791)
 ![](https://img.shields.io/badge/Cookies-informational?style=for-the-badge&logo=Cookiecutter&logoColor=white&color=D4AA00)
-![](https://img.shields.io/badge/Bitcoin-informational?style=for-the-badge&logo=Bitcoin&logoColor=white&color=F7931A)
-![](https://img.shields.io/badge/Ethereum-informational?style=for-the-badge&logo=Ethereum&logoColor=white&color=3C3C3D)
-![](https://img.shields.io/badge/Ripple-informational?style=for-the-badge&logo=Ripple&logoColor=white&color=0085C0)
 ![](https://img.shields.io/badge/Spotify-informational?style=for-the-badge&logo=Spotify&logoColor=white&color=1ED760)
 ![](https://img.shields.io/badge/Udemy-informational?style=for-the-badge&logo=Udemy&logoColor=white&color=EC5252)
 ![](https://img.shields.io/badge/TED-informational?style=for-the-badge&logo=TED&logoColor=white&color=E62B1E)
